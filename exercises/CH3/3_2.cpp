@@ -1,5 +1,6 @@
 /* These programs are written on top of a automatic template */
-// I know that this is a crappy program. because i am not in my correct mind while doing this. please excuse me.
+// I know that this is a crappy program.
+//Because i am not in my correct mind while doing this. please excuse me.
 #include <iostream>
 #include <algorithm>
 #include <vector>
